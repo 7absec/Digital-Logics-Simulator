@@ -1,7 +1,7 @@
 # Digital Logics Simulator
 <p align="center">
 <a href="https://github.com/7absec/Digital-Logics-Simulator" target="_blank"> 
-    <img src="https://github.com/7absec/Digital-Logics-Simulator/image/banner.jpg">
+    <img src="https://github.com/7absec/Digital-Logics-Simulator/blob/main/image/banner.jpg">
   </a> 
 </p>
 
