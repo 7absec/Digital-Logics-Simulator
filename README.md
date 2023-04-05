@@ -54,6 +54,7 @@ Install the following python libraries.
  ```
  
 <br/>
+
 **Step 01:** _Clone the repository_
 ```javascipt
 git clone https://github.com/7absec/Digital-Logics-Simulator.git
@@ -86,7 +87,7 @@ git clone https://github.com/7absec/Digital-Logics-Simulator.git
 <hr />
 
 ### Team
- - [Baig Humzah](https://github.com/Hbaig05546) 
+ - [Baig Hamzah](https://github.com/Hbaig05546) 
  - [Kazi Uzair](https://github.com/uzair-sudo)
 
 <hr />
