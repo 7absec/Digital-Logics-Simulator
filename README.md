@@ -1,7 +1,7 @@
 # Digital Logics Simulator
 <p align="center">
 <a href="https://github.com/7absec/Digital-Logics-Simulator" target="_blank"> 
-    <img src="https://github.com/7absec/Digital-Logics-Simulator/image/banner.jpg"> 
+    <img src="https://github.com/7absec/Digital-Logics-Simulator/image/banner.jpg">
   </a> 
 </p>
 
@@ -25,8 +25,6 @@ Digital-Logics-Simulator is a terminal based simulation of Digital Logic & Compu
 <hr />	
 
 ### Features
-
-**eLearning modules** 
 </br>
  - Terminal Based simulation 
  - Step to step explanation
@@ -52,7 +50,7 @@ Install the following python libraries.
  - circuits
  - opencv-python
  - numpy
-```
+ ```
 
 **Step 01:** _Clone the repository_
 ```javascipt
