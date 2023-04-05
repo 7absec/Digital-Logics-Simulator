@@ -25,7 +25,7 @@ Digital-Logics-Simulator is a terminal based simulation of Digital Logic & Compu
 <hr />	
 
 ### Features
-</br>
+
  - Terminal Based simulation 
  - Step to step explanation
  - Images are added for better understanding
@@ -44,18 +44,21 @@ Digital-Logics-Simulator is a terminal based simulation of Digital Logic & Compu
   	</a> 
 </p>
 <br/>
-```javascipt
+
+```javascipt 
 Install the following python libraries.
  - gates
  - circuits
  - opencv-python
  - numpy
  ```
-
+ 
+<br/>
 **Step 01:** _Clone the repository_
 ```javascipt
 git clone https://github.com/7absec/Digital-Logics-Simulator.git
 ```
+
 <br/>
 
 **Step 02:** _Go to the Digital-Logics-Simulator directory._
